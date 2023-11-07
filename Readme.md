@@ -19,4 +19,4 @@
 - Run the index.html file
 
 <h3>Website</h3> 
-Click here[here](https://bansarishah59.github.io/bansari-portfolio/) for my Portfolio
+Click here [here](https://bansarishah59.github.io/bansari-portfolio/) for my Portfolio
